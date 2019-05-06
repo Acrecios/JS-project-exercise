@@ -1,5 +1,5 @@
 {
-  "name": "version",
+  "name": "js-footer-version",
   "version": "1.0.0",
   "description": "This module allows for a dynamic footer to be generated for js  applications with updated year and name.",
   "main": "index.js",
